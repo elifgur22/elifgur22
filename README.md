@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=1000&color=0077cc&center=true&vCenter=true&width=500&height=75&lines=Hello!+I'm+Elif+Gur.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=1000&color=F49AC2&center=true&vCenter=true&width=500&height=75&lines=Hello!+I'm+Elif+Gur.)](https://git.io/typing-svg)
 
 
 <h3 align="center">A passionate full stack developer</h3>
